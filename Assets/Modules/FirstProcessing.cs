@@ -16,8 +16,10 @@ public class FirstProcessing : MonoBehaviour
 
     private void Start()
     {
+        /*
         colorMaterial(material);
         applyMaterial(material);
+    */
     }
 
     private void colorMaterial(Material material)

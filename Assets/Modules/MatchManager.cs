@@ -48,6 +48,10 @@ public class MatchManager : MonoBehaviour, IGameManager
 
     private void MatchFinishes()
     {
+
+        // Make an event system
+
+
         matchState = MatchState.Finished;
 
         int goalsLost1, goalsLost2;
